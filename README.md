@@ -4,6 +4,8 @@ Cam Scroller is an open-source Chrome extension that uses your webcam and
 [deeplearn.js](https://deeplearnjs.org) to enable scrolling through webpages
 using custom gestures that you define.
 
+The Chrome extension can be found in the Chrome web store [here](https://chrome.google.com/webstore/detail/cam-scroller/egljnginfcbpehnpfojpbogiopdgjjak).
+
 It makes use of the deeplearn.js [KNN image classifier](https://github.com/PAIR-code/deeplearnjs/blob/master/models/knn_image_classifier/knn_image_classifier.ts)
 in the same manner as [Teachable Machine](https://teachablemachine.withgoogle.com/)
 and [Cam Arcade](https://deeplearnjs.org/demos/teachable_gaming/).
