@@ -15,7 +15,7 @@ This simple Chrome extension is meant to show, through a minimal example, the
 types of experiences that can be enabled through the use of browser-based
 machine learning.
 
-![GIF showing training process](https://gist.github.com/jameswex/d9506ffef04976e37d577e2907cac276/raw/38ef1cd3a60e0f3a4db56b93c87470a51c3eda45/CamScrollerTraining.gif)
+![GIF showing training process](https://gist.githubusercontent.com/jameswex/d9506ffef04976e37d577e2907cac276/raw/38ef1cd3a60e0f3a4db56b93c87470a51c3eda45/CamScrollerTraining.gif)
 
 ## Usage
 
